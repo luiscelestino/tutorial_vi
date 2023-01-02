@@ -67,3 +67,4 @@
 
 ### Para substituir todas ocorrencias de uma string no arquivo todo
 - No modo linha de comando, usar ':%s/antes/depois/g'.
+
